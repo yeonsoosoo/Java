@@ -18,7 +18,6 @@ public class LoginMain extends JFrame implements ActionListener{
 	JPasswordField passwd;
 	JButton log, clear, join, log_find, passwd_find, update;
 	JPanel top, bottom, bottom_2;
-	boolean check;
 	
 	
 	LoginMain(){
